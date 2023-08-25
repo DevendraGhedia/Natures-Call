@@ -26,3 +26,11 @@ Explore the rich cultural tapestry of Gujarat, India, with the captivating Andro
 🌐 **Internet Connection Required**: "Nature's Call" fetches its treasure trove of information from the online database, so an internet connection is your key to unlocking the riches of Gujarat's cities.
 
 Whether you're planning a trip, seeking local adventures, or simply eager to explore your own city more deeply, "Nature's Call" is your constant companion. Every nook, every flavor, and every story of these cities come alive through this app. Immerse yourself in the heart and soul of Gujarat with "Nature's Call." Your journey starts now.
+
+# Screenshots
+<img src="https://github.com/DevendraGhedia/Natures-Call/blob/main/Login.jpg" alt="login" width = "200" height="auto" align="left">
+<img src="https://github.com/DevendraGhedia/Natures-Call/blob/main/Registration.jpg" alt="registration" width = "200" height="auto" align="left">
+<img src="https://github.com/DevendraGhedia/Natures-Call/blob/main/HomePage.jpg" alt="home" width = "210" height="auto" align="center">
+<img src="https://github.com/DevendraGhedia/Natures-Call/blob/main/Ahm%20-%20Heritage.jpg" alt="ahm-heritage" width = "210" height="auto" align="left">
+<img src="https://github.com/DevendraGhedia/Natures-Call/blob/main/Ahm%20-%20Food.jpg" alt="ahm-food" width="210" height="auto"align="left">
+
